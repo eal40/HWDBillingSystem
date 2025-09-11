@@ -1,0 +1,16 @@
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\bin\Debug\net8.0-windows\FormValidation.exe
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\bin\Debug\net8.0-windows\FormValidation.deps.json
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\bin\Debug\net8.0-windows\FormValidation.runtimeconfig.json
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\bin\Debug\net8.0-windows\FormValidation.dll
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\bin\Debug\net8.0-windows\FormValidation.pdb
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.Form1.resources
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.vbproj.GenerateResource.cache
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.AssemblyInfoInputs.cache
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.AssemblyInfo.vb
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.vbproj.CoreCompileInputs.cache
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.dll
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\refint\FormValidation.dll
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.pdb
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\FormValidation.genruntimeconfig.cache
+C:\Users\SomaQyunny.eth\source\repos\FormValidation\obj\Debug\net8.0-windows\ref\FormValidation.dll
