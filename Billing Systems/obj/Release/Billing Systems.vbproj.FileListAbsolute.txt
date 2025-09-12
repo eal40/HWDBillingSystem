@@ -1,0 +1,11 @@
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\bin\Release\Billing Systems.exe
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\bin\Release\Billing Systems.pdb
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\bin\Release\Billing Systems.xml
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\ResolveAssemblyReference.cache
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\Billing_System.Files.resources
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\Billing_System.Form1.resources
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\Billing_System.Resources.resources
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\Billing Systems.vbproj.GenerateResource.Cache
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\Billing Systems.exe
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\Billing Systems.xml
+D:\janu.installer\programs\janu prog\Billing Systems\Billing Systems\obj\Release\Billing Systems.pdb
