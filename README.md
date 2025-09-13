@@ -59,6 +59,9 @@ The application uses the following main tables:
 3. Open the solution file (Billing Systems.sln) in Visual Studio
 4. Build the solution
 5. Run the application
+6. To try the app locally:
+  Username: admin
+  Password: admin
 
 ## Usage
 
