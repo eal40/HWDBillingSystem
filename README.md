@@ -59,16 +59,15 @@ The application uses the following main tables:
 3. Open the solution file (Billing Systems.sln) in Visual Studio
 4. Build the solution
 5. Run the application
-6. To try the app locally:
-  Username: admin
-  Password: admin
 
 ## Usage
 
 1. Launch the application
 2. Log in with your credentials
-3. Use the navigation menu to access different features
-4. For new users, start by adding customers before creating invoices
+   username: admin
+   password: admin
+4. Use the navigation menu to access different features
+5. For new users, start by adding customers before creating invoices
 
 ## Dependencies
 
